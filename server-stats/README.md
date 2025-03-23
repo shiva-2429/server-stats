@@ -11,4 +11,6 @@ This project provides a Bash script to analyze server performance, including CPU
 
 ## Project URL
 [View Project on Roadmap.sh](https://github.com/shiva-2429/server-stats/blob/main/server-stats/server-stats.sh)
+## Project URL
+[View Project on Roadmap.sh](https://roadmap.sh/projects/server-stats)
 
